@@ -9,10 +9,13 @@ A simple batch script to patch persona folder in MCBE and use skin packs with cu
 
 ## How to Use
 
- 1. Extract a skin pack.
- 2. Find the main folder where manifest.json is located.
- 3. Select all files then move it to persona folder.
- 4. Run the script and follow the instructions.
+ 1. [Download](https://github.com/StruckX/persona-patcher/archive/refs/heads/master.zip) this repo.
+ 2. Extract the persona-patcher-master.zip
+ 3. Inside persona-patcher-master, add a folder named "persona"
+ 4. Extract a skin pack.
+ 5. Find the main folder where manifest.json is located.
+ 6. Select all files then move it to persona folder.
+ 7. Run the script and follow the instructions.
 
 ## Warning!
 
